@@ -1,2 +1,9 @@
-2026/03/17-22:13:45.548 3834 Creating DB C:\Unreal\UnrealStudyAssignment\Assignment0317\Saved\webcache_6613\Default\Local Storage\leveldb since it was missing.
-2026/03/17-22:13:45.575 3834 Reusing MANIFEST C:\Unreal\UnrealStudyAssignment\Assignment0317\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/03/17-22:19:55.596 15d0 Reusing MANIFEST C:\Unreal\UnrealStudyAssignment\Assignment0317\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/03/17-22:19:55.604 15d0 Recovering log #3
+2026/03/17-22:19:55.608 15d0 Reusing old log C:\Unreal\UnrealStudyAssignment\Assignment0317\Saved\webcache_6613\Default\Local Storage\leveldb/000003.log 
+2026/03/17-22:26:36.505 15d0 Level-0 table #5: started
+2026/03/17-22:26:36.517 15d0 Level-0 table #5: 81157 bytes OK
+2026/03/17-22:26:36.519 15d0 Delete type=0 #3
+2026/03/17-22:33:45.682 3c68 Level-0 table #7: started
+2026/03/17-22:33:45.690 3c68 Level-0 table #7: 71602 bytes OK
+2026/03/17-22:33:45.692 3c68 Delete type=0 #4
