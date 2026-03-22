@@ -1,0 +1,17 @@
+[24560:5720:0321/161623.659:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[24560:5720:0321/161623.841:ERROR:os_crypt_win.cc(100)] Failed to decrypt: 키를 지정된 상태에서 사용하기에 부적합합니다. (0x8009000B)
+[24560:23928:0321/161623.981:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[24560:5720:0321/161624.102:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[21016:1096:0321/161630.300:ERROR:backend_impl.cc(989)] Critical error found -8
+[21016:1096:0321/161630.571:WARNING:storage_block-inl.h(138)] Failed data load.
+[22136:13732:0321/161631.020:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-4016E3235700D8B2B5948D1160D12FFD will be ignored
+[24560:5720:0321/161631.313:ERROR:device_event_log_impl.cc(196)] [16:16:31.301] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+[24560:14804:0321/161633.520:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[24560:5720:0321/170537.775:ERROR:device_event_log_impl.cc(196)] [17:05:37.764] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+[24560:5720:0321/204053.405:ERROR:device_event_log_impl.cc(196)] [20:40:53.201] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+[24560:5720:0322/002251.772:ERROR:device_event_log_impl.cc(196)] [00:22:51.724] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+[21016:23192:0322/082718.077:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[24560:14804:0322/082718.820:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[24560:5720:0322/132732.332:ERROR:device_event_log_impl.cc(196)] [13:27:32.314] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+[24560:5720:0322/135331.351:ERROR:device_event_log_impl.cc(196)] [13:53:31.340] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+[24560:5720:0322/155954.822:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
