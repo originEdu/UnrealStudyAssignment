@@ -1,9 +1,0 @@
-[12552:14152:0317/221955.454:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[12552:4656:0317/221955.499:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[12552:14152:0317/221955.508:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[12560:7020:0317/221959.469:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-68DBA2C780960EFC3DBCBCD6D3E3F235 will be ignored
-[12552:9624:0317/222002.016:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[12552:14152:0317/222003.178:ERROR:device_event_log_impl.cc(196)] [22:20:03.169] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
-[12692:11828:0317/222108.451:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 7-1FA70C9CDCFD722DBE2E2BADEF7D724D will be ignored
-[18804:12704:0317/222658.605:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame B-DC54DB8C4DCB9960845747CA79AADBDA will be ignored
-[12552:14152:0317/223345.862:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

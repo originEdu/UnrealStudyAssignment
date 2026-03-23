@@ -1,0 +1,12 @@
+[15356:12684:0322/161346.585:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[15356:18300:0322/161346.737:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[15356:12684:0322/161346.827:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[4648:11844:0322/161352.703:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-3D9D97A38B6BEFBB6558AE2C1385D362 will be ignored
+[15356:12684:0322/161352.734:WARNING:frame_host_impl.cc(623)] virtual CefFrameHostImpl::SendProcessMessage sent to detached frame 5-3D9D97A38B6BEFBB6558AE2C1385D362 (main) will be ignored
+[15356:12684:0322/161353.724:ERROR:device_event_log_impl.cc(196)] [16:13:53.403] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+[15356:17992:0322/161354.809:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[15356:12684:0322/194950.674:ERROR:device_event_log_impl.cc(196)] [19:49:50.653] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+[15356:12684:0322/194950.721:ERROR:device_event_log_impl.cc(196)] [19:49:50.711] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+[15356:12684:0322/194950.737:ERROR:device_event_log_impl.cc(196)] [19:49:50.730] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: 사용 가능한 데이터가 없습니다. (0x103)
+[15356:12684:0322/194953.526:ERROR:device_event_log_impl.cc(196)] [19:49:53.525] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+[15356:12684:0322/204800.241:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
